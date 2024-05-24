@@ -1,7 +1,7 @@
 # GithubforDev
 Start Github 101!
 
-## Lessons Learned
+## Github for devolopers course
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 # Hi, I'm Prin! 👋
